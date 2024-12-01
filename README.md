@@ -2,7 +2,7 @@
 
 Jest to projekt zbierający narzędzia stworzone przez mnie w ramach moich studiów informatyki na Politechnice Opolskiej
 Dotychczasowe projekty, a także osobne języki programowania, takie `SUFE` czy `LOOK` zostały w tym projekcie dołożone jako `biblioteki grupy std`
-W `JEET`'ie programuje się w języku `JEET` ( xD ), który jest swego rodzaju wariacją języka `JUST` nastawioną na tworzenie dokumentów a nie tylko programów
+W `JEET`'ie programuje się w języku `JEET` ( xD ), który jest swego rodzaju wariacją języka `JUST` nastawioną na tworzenie dokumentów a nie tylko programów
 
 ## Projekty włączone w JEƎT SᴛᴀᴄK
 
@@ -16,7 +16,7 @@ Tworzenie interfejsów, stron internetowych i aplikacji
 
 ### `LUCK`
 
-Łączenie się ze zdalnymi urządzeniami, sterwanie i uruchamianie aplikacji. Projektowanie zdarzeń na osi czasu
+Łączenie się ze zdalnymi urządzeniami, sterwanie i uruchamianie aplikacji. Projektowanie zdarzeń na osi czasu
 
 ### `PALE`
 
@@ -46,7 +46,7 @@ Obsługa bazująca na zdarzeniach, _bezpieczne_ uruchamianie kodu, wielowątkowo
 
 ### `EXAY wrapper`
 
-Pozwala łączyć się z innymi usługami `MAKOUS`. W tym m.in logowanie, autoryzację czy dostęp do plików
+Pozwala łączyć się z innymi usługami `@makous.mk`. W tym m.in logowanie, autoryzację czy dostęp do plików
 
 ### `cad`
 
